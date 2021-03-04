@@ -15,6 +15,6 @@ public class suhLar {
 		String s2=Character.toString(a[len-2]);
 		String s=s1+s2;
 		b=Integer.parseInt(s);
-		System.out.print(b);
+		System.out.print("a"+b);
 	}
 }
